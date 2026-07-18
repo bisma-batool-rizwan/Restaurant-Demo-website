@@ -9,14 +9,6 @@ https://my-restaurant-website-demo.netlify.app/
 
 ---
 
-## 📸 Screenshot
-
-```html
-<p align="center">
-  <img src="Screenshot.png" width="700" alt="Restaurant Website Screenshot">
-</p>
-```
-
 ---
 
 ## ✨ Features
